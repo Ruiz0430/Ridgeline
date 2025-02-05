@@ -1,6 +1,6 @@
 # Ridgeline
 
-## [Check out my portfolio](dannysportfolio.net)
+## [Check out my portfolio]((https://www.dannysportfolio.net/)
 
 ## Description
 Ridgeline is a fictional winter clothing e-store. Images and icons are made by and provided by [Codecademy.com](https://www.codecademy.com/). This is currently only a wireframe and was created using [Figma.com](figma.com). The webpage depicted is the "Product Details" page which allows the user to get the details of a particular product they may wish to purchase.
