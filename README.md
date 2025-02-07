@@ -19,7 +19,7 @@ Once the user navigates to the product details page and chooses the color for a 
 - [ ] Add web pages
 - [ ] Develop backend
 
-## Authors and Acknowledgments
+## Authors and Acknowledgements
 - Daniel Ruiz
 - [Codecademy.com](https://www.codecademy.com/)
 - [Figma.com](figma.com)
